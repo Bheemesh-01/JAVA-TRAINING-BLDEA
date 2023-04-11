@@ -6,6 +6,9 @@ class Dog
 	int cost;
 	int age;
 	String color;
+	void run() {
+		System.out.println("hi from variableexmp1");
+	}
 }
 public class VariableExmp1 {
 	public static void main(String[] args) {
